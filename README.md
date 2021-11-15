@@ -1,4 +1,4 @@
-#VBA Challenge - Code Refactoring
+# VBA Challenge - Code Refactoring
 
 ## Overview of Project
 - Explore stocks performance by analyzing financial data using VBA for the year 2017 and 2018
